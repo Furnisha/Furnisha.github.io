@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Man Like Politics Podcast</title>
+    <link>http://www.manlikepolitics.co.uk/</link>
+    <description>Man Like Politics: A podcast about politics</description>
+    <item>
+      <title>Nuclear Weapons Podcast</title>
+      <link>http://www.manlikepolitics.co.uk/audio.html</link>
+      <description>In this episode we discuss the controversial topic of nuclear weapons and their relevance in today's society</description>
+    </item>
+    <item>
+      <title>XML Tutorial</title>
+      <link>https://www.w3schools.com/xml</link>
+      <description>New XML tutorial on W3Schools</description>
+    </item>
+  </channel>
+
+  </rss>
