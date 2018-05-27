@@ -64,5 +64,20 @@
   <itunes:duration>36:21</itunes:duration>
   <itunes:explicit>no</itunes:explicit>
 </item>
+<item>
+  <itunes:episodeType>full</itunes:episodeType>
+  <itunes:title>Wealth Redistribution</itunes:title>
+  <title>Wealth Redistribution</title>
+  <itunes:author>Furnisha Lycett, Pouneh Ahari, Marley McIntosh</itunes:author>
+  <itunes:subtitle>Wealth Redistribution</itunes:subtitle>
+  <itunes:summary>The ever growing wealth gap between rich and poor in the UK is our topic of discussion for this episode. We will be exploring potential options about how to make our society a fairer place for everyone to live.</itunes:summary>
+  <description>The ever growing wealth gap between rich and poor in the UK is our topic of discussion for this episode. We will be exploring potential options about how to make our society a fairer place for everyone to live.</description>
+  <content:encoded>The ever growing wealth gap between rich and poor in the UK is our topic of discussion for this episode. We will be exploring potential options about how to make our society a fairer place for everyone to live.</content:encoded>
+  <enclosure length="7043250" type="audio/mpeg" url="http://www.manlikepolitics.co.uk/Wealthredistribution.mp3"/>
+  <guid>http://www.manlikepolitics.co.uk/Wealthredistribution.mp3</guid>
+  <pubDate>Sun, 27 May 2018 01:15:00 GMT</pubDate>
+  <itunes:duration>48:54</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+</item>
 </channel>
 </rss>
