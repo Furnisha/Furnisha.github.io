@@ -14,7 +14,11 @@
       <title>XML Tutorial</title>
       <link>https://www.w3schools.com/xml</link>
       <description>New XML tutorial on W3Schools</description>
-      <image> <img src = logo.png> </image>
+      <image>
+        <url>https://www.w3schools.com/images/logo.gif</url>
+        <title>W3Schools.com</title>
+        <link>https://www.w3schools.com</link>
+      </image>>
     </item>
   </channel>
 
