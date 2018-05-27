@@ -34,5 +34,20 @@
   <itunes:duration>32:27</itunes:duration>
   <itunes:explicit>no</itunes:explicit>
 </item>
+<item>
+  <itunes:episodeType>full</itunes:episodeType>
+  <itunes:title>Blockchain & Cryptocurrency</itunes:title>
+  <title>Blockchain & Cryptocurrency</title>
+  <itunes:author>Furnisha Lycett, Pouneh Ahari, Marley McIntosh</itunes:author>
+  <itunes:subtitle>Blockchain & Cryptocurrency</itunes:subtitle>
+  <itunes:summary>In this episode we discuss the blockchain and cyrptocurrency craze: What are cryptocurrencies and blockchain technology? We discuss the alternative uses of blockchain and explore the positives and negatives of the new technology.</itunes:summary>
+  <description>In this episode we discuss the blockchain and cyrptocurrency craze: What are cryptocurrencies and blockchain technology? We discuss the alternative uses of blockchain and explore the positives and negatives of the new technology.</description>
+  <content:encoded>In this episode we discuss the blockchain and cyrptocurrency craze: What are cryptocurrencies and blockchain technology? We discuss the alternative uses of blockchain and explore the positives and negatives of the new technology.</content:encoded>
+  <enclosure length="59471113" type="audio/mpeg" url="http://www.manlikepolitics.co.uk/Blockchain&cryptocurrency.mp3"/>
+  <guid>http://www.manlikepolitics.co.uk/Blockchain&cryptocurrency.mp3</guid>
+  <pubDate>Sun, 27 May 2018 01:15:00 GMT</pubDate>
+  <itunes:duration>41;17</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+</item>
 </channel>
 </rss>
