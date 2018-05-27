@@ -8,11 +8,13 @@
       <title>Nuclear Weapons Podcast</title>
       <link>http://www.manlikepolitics.co.uk/audio.html</link>
       <description>In this episode we discuss the controversial topic of nuclear weapons and their relevance in today's society</description>
+      <category> Politics</category>
     </item>
     <item>
       <title>XML Tutorial</title>
       <link>https://www.w3schools.com/xml</link>
       <description>New XML tutorial on W3Schools</description>
+      <image> <img src = logo.png> </image>
     </item>
   </channel>
 
