@@ -46,7 +46,22 @@
   <enclosure length="59471113" type="audio/mpeg" url="http://www.manlikepolitics.co.uk/Blockchain&cryptocurrency.mp3"/>
   <guid>http://www.manlikepolitics.co.uk/Blockchain&cryptocurrency.mp3</guid>
   <pubDate>Sun, 27 May 2018 01:15:00 GMT</pubDate>
-  <itunes:duration>41;17</itunes:duration>
+  <itunes:duration>41:17</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <itunes:episodeType>full</itunes:episodeType>
+  <itunes:title>Beyonce</itunes:title>
+  <title>Beyonce</title>
+  <itunes:author>Furnisha Lycett, Pouneh Ahari, Marley McIntosh</itunes:author>
+  <itunes:subtitle>Beyonce</itunes:subtitle>
+  <itunes:summary>In this episode we discuss all things Beyonce! We challenge the influences that she has had on modern day politics and discuss how this intersects with her popstar image and lifestyle.</itunes:summary>
+  <description>In this episode we discuss all things Beyonce! We challenge the influences that she has had on modern day politics and discuss how this intersects with her popstar image and lifestyle.</description>
+  <content:encoded>In this episode we discuss all things Beyonce! We challenge the influences that she has had on modern day politics and discuss how this intersects with her popstar image and lifestyle.</content:encoded>
+  <enclosure length="87240620" type="audio/mpeg" url="http://www.manlikepolitics.co.uk/Beyonce.mp3"/>
+  <guid>http://www.manlikepolitics.co.uk/Beyonce.mp3</guid>
+  <pubDate>Sun, 27 May 2018 01:15:00 GMT</pubDate>
+  <itunes:duration>36:21</itunes:duration>
   <itunes:explicit>no</itunes:explicit>
 </item>
 </channel>
