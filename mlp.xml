@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-<title>Man Like Politics</title>
-<link>http://www.manlikepolitics.co.uk/</link>
-<language>en-gb</language>
-<copyright>&#8471; &amp; &#xA9; 2018 Furnisha Lycett</copyright>
-<itunes:subtitle>The podcast about Politics</itunes:subtitle>
-<itunes:author>Furnisha Lycett, Pouneh Ahari, Marley McIntosh</itunes:author>
-<itunes:summary>The Man Like Politics podcast brings political discussions to the everyday listener. Covering everything from the political influence of pop-culture to discussions on nuclear weapons, if it's got a political influence, we're here for it! Produced and hosted by Pouneh Ahari, Camarley McIntosh and Furnisha Lycett, this podcast is here to bring fresh discussions to the UK political scene. </itunes:summary>
-<description>The Man Like Politics podcast brings political discussions to the everyday listener. Covering everything from the political influence of pop-culture to discussions on nuclear weapons, if it's got a political influence, we're here for it! Produced and hosted by Pouneh Ahari, Camarley McIntosh and Furnisha Lycett, this podcast is here to bring fresh discussions to the UK political scene. </description>
-<itunes:type>episodic</itunes:type>
-<itunes:owner>
-<itunes:name>ManLikePolitics</itunes:name>
-<itunes:email>furnisha_lycett@hotmail.co.uk</itunes:email>
-</itunes:owner>
-<itunes:image href="http://www.manlikepolitics.co.uk/Logo.png"/>
-<itunes:category text="Politics">
-<itunes:category text="Politics"/>
-</itunes:category>
-<itunes:explicit>no</itunes:explicit>
+  <title>Man Like Politics</title>
+  <link>http://www.manlikepolitics.co.uk/</link>
+  <language>en-gb</language>
+  <copyright>&#8471; &amp; &#xA9; 2018 Furnisha Lycett</copyright>
+  <itunes:subtitle>The podcast about Politics</itunes:subtitle>
+  <itunes:author>Furnisha Lycett, Pouneh Ahari, Marley McIntosh</itunes:author>
+  <itunes:summary>The Man Like Politics podcast brings political discussions to the everyday listener. Covering everything from the political influence of pop-culture to discussions on nuclear weapons, if it's got a political influence, we're here for it! Produced and hosted by Pouneh Ahari, Camarley McIntosh and Furnisha Lycett, this podcast is here to bring fresh discussions to the UK political scene. </itunes:summary>
+  <description>The Man Like Politics podcast brings political discussions to the everyday listener. Covering everything from the political influence of pop-culture to discussions on nuclear weapons, if it's got a political influence, we're here for it! Produced and hosted by Pouneh Ahari, Camarley McIntosh and Furnisha Lycett, this podcast is here to bring fresh discussions to the UK political scene. </description>
+  <itunes:type>episodic</itunes:type>
+  <itunes:owner>
+  <itunes:name>ManLikePolitics</itunes:name>
+  <itunes:email>furnisha_lycett@hotmail.co.uk</itunes:email>
+  </itunes:owner>
+  <itunes:image href="http://www.manlikepolitics.co.uk/Logo.png"/>
+  <itunes:category text="Politics">
+  <itunes:category text="Politics"/>
+  </itunes:category>
+  <itunes:explicit>no</itunes:explicit>
 <item>
-<itunes:episodeType>full</itunes:episodeType>
-<itunes:title>Nuclear Weapons</itunes:title>
-<title>Nuclear Weapons</title>
-<itunes:author>Furnisha Lycett, Pouneh Ahari, Marley McIntosh</itunes:author>
-<itunes:subtitle>Nuclear Weapons</itunes:subtitle>
-<itunes:summary>In this episode we discuss the controversial topic of nuclear weapons and their relevance in today's society.</itunes:summary>
-<description>In this episode we discuss the controversial topic of nuclear weapons and their relevance in today's society.</description>
-<content:encoded>In this episode we discuss the controversial topic of nuclear weapons and their relevance in today's society.</content:encoded>
-<enclosure length="46744883" type="audio/mpeg" url="http://www.manlikepolitics.co.uk/audio.html"/>
-<guid>http://www.manlikepolitics.co.uk/Nuclearweapons.mp3</guid>
-<pubDate>Sun, 27 May 2018 01:15:00 GMT</pubDate>
-<itunes:duration>32:27</itunes:duration>
-<itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <itunes:title>Nuclear Weapons</itunes:title>
+  <title>Nuclear Weapons</title>
+  <itunes:author>Furnisha Lycett, Pouneh Ahari, Marley McIntosh</itunes:author>
+  <itunes:subtitle>Nuclear Weapons</itunes:subtitle>
+  <itunes:summary>In this episode we discuss the controversial topic of nuclear weapons and their relevance in today's society.</itunes:summary>
+  <description>In this episode we discuss the controversial topic of nuclear weapons and their relevance in today's society.</description>
+  <content:encoded>In this episode we discuss the controversial topic of nuclear weapons and their relevance in today's society.</content:encoded>
+  <enclosure length="46744883" type="audio/mpeg" url="http://www.manlikepolitics.co.uk/audio.html"/>
+  <guid>http://www.manlikepolitics.co.uk/Nuclearweapons.mp3</guid>
+  <pubDate>Sun, 27 May 2018 01:15:00 GMT</pubDate>
+  <itunes:duration>32:27</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
 </item>
 </channel>
 </rss>
