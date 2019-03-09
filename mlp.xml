@@ -36,6 +36,21 @@
 </item>
 <item>
   <itunes:episodeType>full</itunes:episodeType>
+  <itunes:title>Constitution on Mars</itunes:title>
+  <title>Constitution on Mars</title>
+  <itunes:author>Furnisha Lycett, Pouneh Ahari, Marley McIntosh</itunes:author>
+  <itunes:subtitle>Constitution on Mars</itunes:subtitle>
+  <itunes:summary>n this episode we discuss how we would set up a new constitution on Mars.</itunes:summary>
+  <description>n this episode we discuss how we would set up a new constitution on Mars.</description>
+  <content:encoded>n this episode we discuss how we would set up a new constitution on Mars.</content:encoded>
+  <enclosure length="7043250" type="audio/mpeg" url="http://www.manlikepolitics.co.uk/Mars.mp3"/>
+  <guid>http://www.manlikepolitics.co.uk/Mars.mp3</guid>
+  <pubDate>Sat, 09 March 2019 01:15:00 GMT</pubDate>
+  <itunes:duration>42:48</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <itunes:episodeType>full</itunes:episodeType>
   <itunes:title>Nuclear Weapons</itunes:title>
   <title>Nuclear Weapons</title>
   <itunes:author>Furnisha Lycett, Pouneh Ahari, Marley McIntosh</itunes:author>
